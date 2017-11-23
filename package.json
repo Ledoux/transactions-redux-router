@@ -12,6 +12,7 @@
   },
   "author": "Erwan Ledoux",
   "dependencies": {
+    "react-router-redux": "5.0.0-alpha.4",
     "redux": "^3.6.0"
   },
   "description": "In the framework of transactions, this is the app search state",

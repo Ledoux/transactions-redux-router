@@ -1,3 +1,4 @@
-export * from './actions'
+export * from 'react-router-redux'
+
 export * from './location'
-export * from './reducers'
+export * from './reducer'
