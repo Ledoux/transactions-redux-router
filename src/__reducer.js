@@ -5,7 +5,7 @@ const SET_ROUTER_SEARCH = 'SET_ROUTER_SEARCH'
 
 const initialState = {
   params: { pageName: null, slug: null },
-  search: {}
+  search: null
 }
 
 export function createRouter (routerReducer, config = {}) {

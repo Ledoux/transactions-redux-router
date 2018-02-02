@@ -1,9 +1,3 @@
-/*
-export function getLocationParams (pathname = '', links) {
-  const params = {}
-  return params
-}
-*/
 
 export function getLocationSearch (searchString = '') {
   const search = {}
